@@ -1,5 +1,5 @@
 {
-	"date": "2020-12-04",
-	"subject": "The 'Extract class...' refactoring (from Alt+Shift+T) extracts a group of fields into a separate class and replaces all occurrences to fit the new structure.",
+	"date": "2021-03-17",
+	"subject": "Launching Debug",
 	"aspect-ratio": "2.0"
 }
